@@ -1,0 +1,124 @@
+
+
+<!-- Breadcrumps -->
+    <div class="breadcrumbs">
+        <div class="row">
+            <div class="col-sm-6">
+                <h1>STWG</h1>
+            </div>
+            <div class="col-sm-6">
+                <ol class="breadcrumb">
+                    <li>Tú estas aquí: </li>
+                    <li><a href="index.html">Inicio</a>
+                    </li>
+                    <li class="active"><a href="index.php?page=stwgpage">STWG</a></li>
+                </ol>
+            </div>
+        </div>
+    </div>
+    <!-- End of Breadcrumps -->
+
+    <!-- About Us -->
+    <section class="about">
+        <div class="about-hero">
+            <img src="images/about_bg.jpg" alt="" />
+            <div class="about-text">
+                <hr/>
+                <h2>We’re Your Partner</h2>
+                <p>Inclusive humanitarian relief evolution microloans courageous.</p>
+            </div>
+        </div>
+
+        <div class="row spacing-70">
+            <div class="col-sm-8 center-block">
+             <h3>¿Quienes somos?</h3>
+                <p>Software and Technology Working Group limitada (STWG) es una empresa chilena que provee servicios y soluciones innovadoras en el área de las tecnologías,  permitiendo a nuestros clientes maximizar los beneficios que ofrecen las tecnologías de la información y así puedan  incrementar el valor de su negocio.</p>
+            </div>
+        </div>
+
+        <div class="spacing-70"></div>
+
+        <div class="about-quote">
+            <div class="row full-width no-gutter">
+                <div class="col-sm-6 about-quote-column">
+                    <div class="thequote wow fadeInLeft" data-wow-delay="0.4s">
+                        <h5>Habrá dos tipos de negocios en el siglo XXI: aquellos que estén en el Internet y aquellos que ya no existan.</h5>
+                        <span>Bill Gates</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row spacing-70">
+            <div class="col-sm-8 center-block">
+                <h3>Our Culture</h3>
+                <p>Relief; policy dialogue transformative informal economies Bloomberg. Global South, respect development, 501(c)(3) medical supplies medicine support global network. Poverty marginalized communities sustainable future asylum beneficiaries, collaborative benefit worldwide, safety long-term microloans emergent inclusive. </p>
+                <p>Rural social worker local visionary save lives opportunity. Raise awareness tackling, readiness, eradicate globalization, activism participatory monitoring billionaire philanthropy equal opportunity, policymakers our ambitions dignity medical storytelling.</p>
+            </div>
+        </div>
+
+    </section>
+
+    <div class="ourclients">
+        <div class="row">
+            <div class="col-sm-12">
+                <h3>Nos encanta trabajar con nuestros clientes</h3>
+
+                <div class="row spacing-40">
+                    <div class="col-sm-9 center-block">
+
+                        <div class="block-grid-sm-4 block-grid-xs-2 clients">
+
+                            <div class="block-grid-item wow fadeInUp" data-wow-delay="0.05s">
+                                <img src="images/clients/1.png" alt="" />
+                            </div>
+                            <div class="block-grid-item wow fadeInUp" data-wow-delay="0.1s">
+                                <img src="images/clients/2.png" alt="" />
+                            </div>
+                            <div class="block-grid-item wow fadeInUp" data-wow-delay="0.15s">
+                                <img src="images/clients/3.png" alt="" />
+                            </div>
+                            <div class="block-grid-item wow fadeInUp" data-wow-delay="0.2s">
+                                <img src="images/clients/4.png" alt="" />
+                            </div>
+                          
+                          <!--<div class="block-grid-item wow fadeInUp" data-wow-delay="0.25s">
+                                <img src="images/clients/5.png" alt="" />
+                            </div>
+                            <div class="block-grid-item wow fadeInUp" data-wow-delay="0.3s">
+                                <img src="images/clients/6.png" alt="" />
+                            </div>
+                            <div class="block-grid-item wow fadeInUp" data-wow-delay="0.35s">
+                                <img src="images/clients/7.png" alt="" />
+                            </div>
+                            <div class="block-grid-item wow fadeInUp" data-wow-delay="0.4s">
+                                <img src="images/clients/8.png" alt="" />
+                            </div>
+                            <div class="block-grid-item wow fadeInUp" data-wow-delay="0.45s">
+                                <img src="images/clients/9.png" alt="" />
+                            </div>
+                            <div class="block-grid-item wow fadeInUp" data-wow-delay="0.5s">
+                                <img src="images/clients/1.png" alt="" />
+                            </div>
+                            <div class="block-grid-item wow fadeInUp" data-wow-delay="0.55s">
+                                <img src="images/clients/2.png" alt="" />
+                            </div>
+                            <div class="block-grid-item wow fadeInUp" data-wow-delay="0.6s">
+                                <img src="images/clients/3.png" alt="" />
+                            </div> -->
+
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+
+    
+
+  
+
+
+    <!-- End of About Us -->

@@ -1,0 +1,131 @@
+ <!-- Breadcrumps -->
+    <div class="breadcrumbs">
+        <div class="row">
+            <div class="col-sm-6">
+                <h1>Aplicaciones Moviles</h1>
+            </div>
+            <div class="col-sm-6">
+                <ol class="breadcrumb">
+                    <li>Tú estas aquí: </li>
+                    <li><a href="index.html">Inicio</a>
+                    </li>
+                    <li>Servicios
+                    </li>
+                    <li class="active"><a href="ndex.php?page=appmovil">App Movil</a></li>
+                </ol>
+            </div>
+        </div>
+    </div> <!-- End of Breadcrumps -->
+    <div class="" style=" background-image: linear-gradient(to right, rgba(0, 0, 0, 0.5) 0%, transparent 100%);
+background-repeat: repeat-x;">
+        <div class="slidercontainer" style="background: transparent url('images/sliderMobil/bg_slider.jpg')repeat scroll 0% 0%;
+box-shadow: 0px 50px 290px 80px rgba(119, 119, 119, 0.4) inset;
+height: auto;">
+        <div id="mainslider" class="owl-carousel">
+
+            <div class="item " >
+                <div class="slidecaption" id="fondo">
+                    <h2>Desarrollamos Aplicaciones Mobiles </h2>
+                    <h4>Para Potenciar Tu Marca o Para mostrar tus productos</h4>
+                    
+                </div>
+                <img src="images/sliderMobil/infographic19.jpg" alt="" height="350px" />
+            </div>
+
+           <div class="item">
+                <div class="slidecaption">
+                    <h2>Desarrollamos APP inovadoras </h2>
+                    <h4>Imagina , Nosotros Diseñamos</h4>
+           
+                </div>
+                <img src="images/sliderMobil/desarrollo_app.jpg" alt="" />
+            </div>
+            <div class="item">
+                <div class="slidecaption" id="fondo">
+                    <h2>mejora los canales de comunicación con tu cliente </h2>
+                    <h4> En cualquier lugar y en cualquier momento tus clientes pueden saber de tu Empresa </h4>
+                
+                </div>
+                <img src="images/sliderMobil/app.jpg" alt=""  style="height: 500px ; width: 100%"/>
+            </div>
+        </div>
+    </div>
+    </div>
+    <!--sliders-->
+ <!--end sliders-->
+    <div class="row apppresentacion">
+        <div class="col-sm-6">
+     
+            <h2>Desarrollamos aplicaciones móviles </h2>
+            <p> Nuestra principal cualidad está en el desarrollo de software de movilidad a medida de las necesidades del cliente.</p>
+            <p> Creamos proyectos exclusivos para cada cliente trabajando en el desarrollo desde cero en cada proyecto.</p>
+        </div>
+        <div class="col-sm-6">
+            <div class="box-image">
+                
+                <img src="images/sliderMobil/images.png" alt=""/>
+            </div>
+        </div>
+        
+    </div>
+    <div class="row apppresentacion">
+        <div class="col-sm-6">
+            <div class="box-image" id="ruta">
+                
+                <img src="images/sliderMobil/whyus.png" alt=""/>
+            </div>
+        </div>
+        <div class="col-sm-4">
+            <h2> Un diseño actual </h2>
+            <p>Nos gusta estar a la última en todos los aspectos de nuestro trabajo y ésto lo compartimos contigo. </p>
+            <p>Déjate asesorar en diseño gráfico para personalizar una app que esté marcada por las tendencias más actuales</p>
+         
+        </div>
+    </div>
+ <div class="row apppresentacion">
+        
+        <div class="col-sm-6">
+               <h2> Un sistema multi-plataforma </h2>
+            <p>Un factor fundamental de éxito y que a veces no se tiene en cuenta, es respetar las particularidades de las distintas plataformas.
+                Nuestro sistema tiene un especial cuidado en el estudio de la usabilidad
+                y el diseño propios de los sistemas operativos más extendidos </p>
+       
+         
+        </div>
+      <div class="col-sm-6">
+            <div class="box-image" id="ruta">
+                
+                <img src="images/sliderMobil/androidphone.png" alt=""/>
+            </div>
+        </div>
+     
+     
+    </div>
+    
+    <div class="testimonials gray">
+        <div class="row">
+            <div class="col-sm-12">
+                <h3>Nuestros  proyecto</h3>
+                <div class="row apppresentacion">
+                    <div class="col-sm-6">
+                        <div class="box-image" id="ruta">
+
+                            <img src="images/verlocalidades.png" alt=""/>
+                        </div>
+                    </div>
+                    <div class="col-sm-6">
+                        <h2>RoathNorth</h2>
+                        <p> En ella  podras encontrar toda la informacion disponible de tu ciudad como :</p>
+                        <ul>
+                            <li>Locales Comerciales</li>
+                            <li>Lugares turisticos</li>
+                            <li>instutuciones publicas</li>
+                            <li>Eventos</li>
+                        </ul>
+                        <a class="btn btn-default" href="index.php?page=RoathNorth">Ver Más</a>
+
+                    </div>
+                 </div>
+            </div>
+        </div>
+    </div>
