@@ -5,31 +5,31 @@
             <div class="item">
                 <div class="slidecaption">
                 <!--     <h2>SHARED HOSTING</h2>
-                    <h4>secure, fast and reliable</h4> -->
-                    <p><a class="btn btn-slide" href="#">See the Features</a>
-                    </p>
+                    <h4>secure, fast and reliable</h4> 
+                    <p><a class="btn btn-slide" href="#">See the Features</a> 
+                    </p> -->
                 </div>
-                <img src="images/slider/stwgDISEÑOWEB.png" alt="" />
+                <img src="images/slider/stwgDISEÑOWEB2.png" alt="" />
             </div>
 
             <div class="item">
                 <div class="slidecaption">
                     <!--<h2>RESELLING ServerEast - SHARED ON THEMELOCK.COM. EASIER THAN EVER.</h2>
-                    <h4>your customers expect nothing but the best</h4> -->
+                    <h4>your customers expect nothing but the best</h4>
                     <p><a class="btn btn-slide" href="#">Learn More</a>
-                    </p>
+                    </p>  -->
                 </div>
-                <img src="images/slider/stwgAPLICACIONESDEESCRITORIO.png" alt="" />
+                <img src="images/slider/stwgAPLICACIONESDEESCRITORIO2.png" alt="" />
             </div>
 
             <div class="item">
                 <div class="slidecaption">
                   <!--  <h2>SSD VPS. IN THE CLOUD.</h2>
-                    <h4>we deliver what you need</h4> -->
-                    <p><a class="btn btn-slide" href="#">More Info</a>
-                    </p>
+                    <h4>we deliver what you need</h4> 
+                    <p><a class="btn btn-slide" href="#">More Info</a> 
+                    </p> -->
                 </div>
-                <img src="images/slider/stwgAPLICACIONES MOVILES.png" alt="" />
+                <img src="images/slider/stwgAPLICACIONES MOVILES2.png" alt="" />
             </div>
 
             <div class="item">
@@ -39,7 +39,7 @@
                     <p><a class="btn btn-slide" href="#">Order Now</a>
                     </p> -->
                 </div>
-                <img src="images/slider/stwgDISEÑOYPUBLICIDAD.png" alt="" />
+                <img src="images/slider/stwgDISEÑOYPUBLICIDAD2.png" alt="" />
             </div>
         </div>
 
@@ -58,7 +58,7 @@
     <section class="features">
         <div class="row">
             <div class="col-sm-12">
-                <h2>El verdadero progreso es el que pone la tecnología al alcance de todos.</h2>
+                <h2>"El verdadero progreso es el que pone la tecnología al alcance de todos"</h2>
                 <span style ="  display: block; font-size: 25px; font-weight: 300;text-align: center;
 ">Henry Ford</span>
             </div>
@@ -223,7 +223,7 @@
     <div class="testimonials gray">
         <div class="row">
             <div class="col-sm-12">
-                <h3>What Clients Think</h3>
+                <h3>Nuestros Pilares</h3>
                 
 
 
@@ -236,19 +236,19 @@
                             
                             <div class="whoclient">
                                 <h5><a href="">Compromiso</a></h5>
-                                <p>Inserte Chamulleo Aquí </p>
+                            <!--    <p>Inserte Chamulleo Aquí </p> -->
                             </div>
                         </div>
                     </div>
 
                     <div class="item">
                         <div class="testimonial-content">
-                            <div class="testimonialimg"><img src="images/confiabilidad.png" alt="" />
+                            <div class="testimonialimg"><img src="images/confiabilidad1.png" alt="" />
                             </div>
                             
                             <div class="whoclient">
                                 <h5><a href="">Confiabilidad</a></h5>
-                                <p>Inserte Chamulleo Aquí</p>
+                              <!--    <p>Inserte Chamulleo Aquí </p> -->
                             </div>
 
                         </div>
@@ -257,12 +257,12 @@
 
                     <div class="item">
                         <div class="testimonial-content">
-                            <div class="testimonialimg"><img src="images/profesionalismo.png" alt="" />
+                            <div class="testimonialimg"><img src="images/profesionalismo2.png" alt="" />
                             </div>
                            
                             <div class="whoclient">
                                 <h5><a href="">Profesionalismo</a></h5>
-                                <p>Inserte Chamulleo Aquí </p>
+                                <!--    <p>Inserte Chamulleo Aquí </p> -->
                             </div>
 
                         </div>

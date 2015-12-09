@@ -16,42 +16,34 @@
             </div>
         </div>
     </div> <!-- End of Breadcrumps -->
-    <div class="" style=" background-image: linear-gradient(to right, rgba(0, 0, 0, 0.5) 0%, transparent 100%);
-background-repeat: repeat-x;">
-        <div class="slidercontainer" style="background: transparent url('images/sliderMobil/bg_slider.jpg')repeat scroll 0% 0%;
-box-shadow: 0px 50px 290px 80px rgba(119, 119, 119, 0.4) inset;
-height: auto;">
+  
+
+
+
+<div class="slidercontainer">
         <div id="mainslider" class="owl-carousel">
 
-            <div class="item " >
-                <div class="slidecaption" id="fondo">
-                 <!--   <h2>Desarrollamos Aplicaciones Mobiles </h2>
-                    <h4>Para Potenciar Tu Marca o Para mostrar tus productos</h4> -->
-                    
+         
+
+            <div class="item">
+                <div class="slidecaption">
+                    <!--<h2>RESELLING ServerEast - SHARED ON THEMELOCK.COM. EASIER THAN EVER.</h2>
+                    <h4>your customers expect nothing but the best</h4>
+                    <p><a class="btn btn-slide" href="#">Learn More</a>
+                    </p>  -->
                 </div>
-                <img src="images/sliderMobil/infographic19.jpg" alt="" height="350px" />
+                <img src="images/slider/stwgAPLICACIONES MOVILES2.png" alt="" />
             </div>
 
-           <div class="item">
-                <div class="slidecaption">
-                 <!--   <h2>Desarrollamos APP inovadoras </h2>
-                    <h4>Imagina , Nosotros Diseñamos</h4> -->
            
-                </div>
-                <img src="images/sliderMobil/desarrollo_app.jpg" alt="" />
-            </div>
-            <div class="item">
-                <div class="slidecaption" id="fondo">
-                   <!-- <h2>mejora los canales de comunicación con tu cliente </h2>
-                    <h4> En cualquier lugar y en cualquier momento tus clientes pueden saber de tu Empresa </h4> -->
-                
-                </div>
-                <img src="images/sliderMobil/app.jpg" alt=""  style="height: 500px ; width: 100%"/>
-            </div>
+            
         </div>
+
+        
     </div>
-    </div>
-    <!--sliders-->
+
+
+
  <!--end sliders-->
   <section class="shared-features">
         <div class="row">
@@ -142,26 +134,28 @@ height: auto;">
                         <div class="tabfeatures">
                             <div class="row">
                                 <div class="col-sm-12">
-                                    <h5>En <strong>STWG Ltda.</strong> podemos desarrollar los sistemas según las necesidades de las empresas.</h5>
-                                    <p>Cansado de módulos, procesos y terminologías innecesarias para tu empresa, necesitas un sistema más amigable para tu empresa, que esperas desarrollemos juntos y crea un sistema  acorde a las necesidades de tu empresas.</p>
+                                    <h5>Ten siempre conectados a tus clientes y trabajadores para que tu negocio este siempre presente.</h5>
+                                    <p> Una aplicación Móvil desarrollada por  <strong>STWG Ltda. </strong>te  permite  mejorar los canales de comunicación con tus clientes y posicionar tu negocio en todo momento sin importar el dispositivo donde se busque..</p>
 
                                     <div class="row spacing-70">
                                         <div class="col-sm-4">
                                             <img src="images/shared-7.png" alt="" />
-                                            <h6>Modular</h6>
-                                            <p>En <strong>STWG Ltda.</strong>  estamos dispuesto a realizar los módulos y procesos que sean necesarios para la automatización de tu empresa. </br>En <strong>STWG Ltda.</strong>  sabemos que toda empresa tiene necesidades diferentes y una mala selección de software puede generar muchos problemas, no sufras más y desarrolla tu sistema según los requerimientos tu empresa.</p>
+                                            <h6>Estrella </h6>
+                                            <p>Con una aplicación móvil  para tu negocio o empresa, te desmarcas de tu competencia y posicionas aún más tu negocio frente tus clientes y fortaleces tu marca en el mercado.</p>
+                                        </div>
+
+                                        
+
+                                        <div class="col-sm-4">
+                                            <img src="images/shared-9.png" alt="" />
+                                            <h6>Comunicación </h6>
+                                            <p>Si tu empresa tiene la necesidad de estar siempre conectada con tus trabajadores, una aplicación móvil es un canal perfecto para cumplir ese propósito.</p>
                                         </div>
 
                                         <div class="col-sm-4">
                                             <img src="images/shared-8.png" alt="" />
                                             <h6>Permisos</h6>
-                                            <p>Los sistemas informáticos por lo general son usados por muchos trabajadores de las empresas, al desarrollar tu propio sistema puedes determinar los privilegios de accesos a la información para cada usuario según las necesidades de tu empresa.</p>
-                                        </div>
-
-                                        <div class="col-sm-4">
-                                            <img src="images/shared-9.png" alt="" />
-                                            <h6>Seguridad</h6>
-                                            <p>En <strong>STWG Ltda. </strong>sabemos que la información de las empresas es importante, debido a eso nuestros sistemas informáticos cuentan con protocolos de seguridad de primer nivel con el objetivo de mantener siempre resguardada la información de las empresas.   </p>
+                                            <p>Tu determinas el alcance real de la aplicación, que información puede mostrar la aplicación móvil y quienes pueden interactuar con ella.</p>
                                         </div>
 
                                     </div>
@@ -180,13 +174,18 @@ height: auto;">
                                 <div class="col-sm-12">
                                     <h5>El futuro se encuentra en la portabilidad y tu sistema informático no puede quedarse fuera, STWG Ltda. te invita hacer parte de la multiplataforma y así poder tener la información de tu empresa en todo momento.</h5>
                                     <p>Hoy el mercado y las empresas se mueven en un ritmo muy rápido y las personas necesitan saber que sucede con sus empresas en todo momento, por eso necesitan un sistema informático que explote el mundo de la portabilidad y en <strong>STWG Ltda.</strong>  lo sabemos,  por eso todos nuestros sistemas son compatibles con Smartphone y Tablet y así tú puedas saber en todo momento que es lo que esta aconteciendo con tu negocio.  </p>
-                                  </br>
+                                  
+                                  <div class="row">
+                                    <div class="col-sm-9 center-block wow fadeInUp" data-wow-delay="1.2s" style="visibility: visible; animation-delay: 1.2s; animation-name: fadeInUp;">
+                                        <img src="images/Mobile-Economy.jpg" alt="" class="img-responsive center-block spacing-70">
+                                    </div>
+                                </div>
                                 </div>
 
       
 
-                                <div class="row spacing-70">
-                                    <div class="col-sm-4 wow fadeInUp" data-wow-delay="0.4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
+                              <!--   <div class="row spacing-70">
+                                   <div class="col-sm-4 wow fadeInUp" data-wow-delay="0.4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
                                         <h6>REGISTER</h6>
                                         <p>Catalyst, Millennium Development Goals asylum working alongside Ford Foundation effectiveness institutions social analysis.</p>
                                     </div>
@@ -199,15 +198,11 @@ height: auto;">
                                     <div class="col-sm-4 wow fadeInUp" data-wow-delay="0.8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeInUp;">
                                         <h6>MANAGE</h6>
                                         <p>Global citizens fight against malnutrition, tackle humanitarian relief, youth; diversification solutions fundraise natural.</p>
-                                    </div>
+                                    </div> 
 
-                                </div>
+                                </div> -->
 
-                                <div class="row">
-                                    <div class="col-sm-9 center-block wow fadeInUp" data-wow-delay="1.2s" style="visibility: visible; animation-delay: 1.2s; animation-name: fadeInUp;">
-                                        <img src="images/domains-img-1.png" alt="" class="img-responsive center-block spacing-70">
-                                    </div>
-                                </div>
+                                
 
   
                             
@@ -260,9 +255,9 @@ height: auto;">
     <div id="servers-video" class="hidden-xs">
         <div class="servers-video-container">
             <div class="videocaption">
-                <h2>BUDGET SERVERS</h2>
-                <h4>Enjoy all of the features that come with it</h4>
-                <p><a class="btn btn-slide" href="#" style="background: #EA3338; border-top-color: #EA3338;">Deploy Below</a>
+                <h2>Tienes una idea o una necesidad </h2>
+                <h4>STWG Ltda. puede ayudar alcanzar tus metas y abrirte paso en el mundo de la tecnología </h4>
+                <p><a class="btn btn-slide" href="#" style="background: #EA3338; border-top-color: #EA3338;">Contáctanos </a>
                 </p>
             </div>
             <video autoplay loop muted>

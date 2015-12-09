@@ -18,6 +18,29 @@
     </div>
     <!-- End of Breadcrumps -->
 
+<div class="slidercontainer">
+        <div id="mainslider" class="owl-carousel">
+
+         
+
+            <div class="item">
+                <div class="slidecaption">
+                    <!--<h2>RESELLING ServerEast - SHARED ON THEMELOCK.COM. EASIER THAN EVER.</h2>
+                    <h4>your customers expect nothing but the best</h4>
+                    <p><a class="btn btn-slide" href="#">Learn More</a>
+                    </p>  -->
+                </div>
+                <img src="images/slider/stwgDISEÑOWEB2.png" alt="" />
+            </div>
+
+           
+            
+        </div>
+
+        
+    </div>
+
+
 
 
 <section class="shared-features">

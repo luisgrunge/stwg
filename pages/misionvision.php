@@ -68,8 +68,8 @@
         <div class="row full-width no-gutter">
             <div class="col-sm-6 col-sm-push-6 about-quote2-column" style="height: 300px;">
                 <div class="thequote wow fadeInRight" data-wow-delay="0.4s">
-                    <h5 style="margin-top: -6%; font-size: 35px;">It does not matter how slowly you go as long as you do not stop.</h5>
-                    <span style="font-size: 23px;">Confucius</span>
+                    <h5 style="margin-top: -6%; font-size: 35px;">La tecnología por sí sola no basta. También tenemos que poner el corazón.</h5>
+                    <span style="font-size: 23px;">Jane Goodall</span>
                 </div>
             </div>
         </div>
@@ -90,9 +90,9 @@
                 
                             <div class="testimonialimg"><img src="images/res.png" alt="" />
                             </div>
-                            <p> </p>
+                            <p> La responsabilidad es la principal rama de nuestra empresa </p>
                             <div class="whoclient">
-                                <h5>Alvaro DeMichelis, Founder of <a href="">Global Corp.</a></h5>
+                                <h5>En  <a href="">STWG Ltda. </a> nos comprometemos en realizar todas nuestras tareas y demandas que los clientes necesitan</h5>
                             </div>
                         </div>
                     </div>
@@ -100,7 +100,7 @@
                     <div class="item">
                         <div class="testimonial-content">
                          <h5>Profesionalismo</h5>
-                            <div class="testimonialimg"><img src="images/profesionalismo.png" alt="" />
+                            <div class="testimonialimg"><img src="images/profesionalismo2.png" alt="" />
                             </div>
                             <p>En STWG Ltda. El grupo humano que lo compone, siempre está en busca de nuevas tecnologías para solucionar los problemas e inquietudes de nuestros clientes </p>
                             <div class="whoclient">
@@ -127,7 +127,7 @@
                      <div class="item">
                         <div class="testimonial-content">
                          <h5>Confidencialidad</h5>
-                            <div class="testimonialimg"><img src="images/confiabilidad.png" alt="" />
+                            <div class="testimonialimg"><img src="images/confiabilidad1.png" alt="" />
                             </div>
                             <p>Si trabajas con <strong>STWG Ltda.</strong> Tus ideas e información siempre estarán resguardadas</p>
                             <div class="whoclient">
@@ -141,5 +141,6 @@
 
             </div>
         </div>
-    </div>
-        
+
+         </div>
+         </section>

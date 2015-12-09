@@ -72,7 +72,7 @@
         </div>
     </div>
 
-    <div class="partners">
+   <!-- <div class="partners">
         <div class="row">
             <div class="col-sm-12">
                 <div id="datacenter-partners">
@@ -119,5 +119,5 @@
 
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- End of Datacenter -->
