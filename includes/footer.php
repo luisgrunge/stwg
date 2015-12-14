@@ -26,8 +26,8 @@
                     <li style=" background: rgba(57, 95, 124, .9); font-size: 16px; margin-bottom: 4px; padding: 10px 15px;"><a href="index.php?page=stwgpage">STWG LTDA.</a>
                     </li>
                     <li style=" background: rgba(57, 95, 124, .9); font-size: 16px; margin-bottom: 4px; padding: 10px 15px;"><a href="index.php?page=misionvision">Misión y Visión</a>
-                    </li
-                    <li style=" background: rgba(57, 95, 124, .9); font-size: 16px; margin-bottom: 4px; padding: 10px 15px;"><a href="http://127.0.0.1/stwg/index.php?page=nuestrosclientes">Clientes</a>
+                    </li>
+                    <li style=" background: rgba(57, 95, 124, .9); font-size: 16px; margin-bottom: 4px; padding: 10px 15px;"><a href="index.php?page=nuestrosclientes">Clientes</a>
                     </li>
                 </ul>
             </div>
