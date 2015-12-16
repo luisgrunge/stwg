@@ -70,12 +70,12 @@
 
                     <!-- 1st tab  -->
                     <div id="feature1">
-                        <div class="centralicon"><img src="images/shared-11.png" alt="" />
+                        <div class="centralicon"><img src="images/web-design.jpg" alt="" />
                         </div>
                         <div class="tabfeatures">
                             <div class="row">
                                 <div class="col-sm-7">
-                                    <img src="images/shared-img-1.png" alt="" />
+                                    <img src="images/web-designwall.jpg" alt="" />
                                 </div>
 
                                 <div class="col-sm-5">
@@ -90,7 +90,7 @@
 
                     <!-- 2nd tab  -->
                     <div id="feature2">
-                        <div class="centralicon"><img src="images/shared-2.png" alt="" />
+                        <div class="centralicon"><img src="images/web-design2.png" alt="" />
                         </div>
                         <div class="tabfeatures">
                             <div class="row">
@@ -125,7 +125,7 @@
 
                     <!-- 3rd tab  -->
                     <div id="feature3">
-                        <div class="centralicon"><img src="images/shared-6.png" alt="" />
+                        <div class="centralicon"><img src="images/web-design3.png" alt="" />
                         </div>
                         <div class="tabfeatures">
                             <div class="row">

@@ -21,7 +21,7 @@
     <!-- About Us -->
     <section class="about" style="height:865px;">
         <div class="about-hero">
-            <img src="images/about_bg.png" alt="" / style=" height: 283px; width:100%; ">
+            <img src="images/about_bg2.png" alt="" / style=" height: 283px; width:100%; ">
             <div class="about-text">
             
              <!--    <h2>We’re Your Partner</h2>
@@ -63,23 +63,23 @@
                         <div class="block-grid-sm-4 block-grid-xs-2 clients">
 
                             <div class="block-grid-item wow fadeInUp" data-wow-delay="0.05s">
-                                <img src="images/clients/1.png" alt="" />
+                                <a href="http://grg-chile.cl/"> <img   src="images/clients/1.png" alt=""  /> </a>
                             </div>
                             <div class="block-grid-item wow fadeInUp" data-wow-delay="0.1s">
-                                <img src="images/clients/2.png" alt="" />
+                             <a href="http://shotels.cl/inicio/">   <img src="images/clients/2.png" alt=""  /> </a>
                             </div>
                             <div class="block-grid-item wow fadeInUp" data-wow-delay="0.15s">
-                                <img src="images/clients/3.png" alt="" />
+                             <a href="http://www.garridoymoreno.cl/">   <img src="images/clients/3.png" alt="" /> </a>
                             </div>
                             <div class="block-grid-item wow fadeInUp" data-wow-delay="0.2s">
-                                <img src="images/clients/4.png" alt="" />
+                              <a href="http://graficaexpresion.cl/">  <img src="images/clients/4.png" alt="" /> </a>
                             </div>
                           
                          <div class="block-grid-item wow fadeInUp" data-wow-delay="0.25s">
-                                <img src="images/clients/santa.png" alt="" />
+                              <a href="http://santalorenza.cl/">  <img src="images/clients/santa.png" alt="" /> </a>
                             </div>
                             <div class="block-grid-item wow fadeInUp" data-wow-delay="0.3s">
-                                <img src="images/clients/ocean.png" alt="" />
+                                <a href="http://www.oceanadventure.cl/inicio/"> <img src="images/clients/ocean.png" alt="" /> </a>
                             </div>
                            <!--  <div class="block-grid-item wow fadeInUp" data-wow-delay="0.35s">
                                 <img src="images/clients/7.png" alt="" />

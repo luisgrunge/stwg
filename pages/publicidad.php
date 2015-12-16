@@ -66,26 +66,26 @@
 
                 <div id="shared-hosting-tabs" class="wow fadeInRight spacing-70" data-wow-delay="0.4s">
                     <ul>
-                        <li><a href="#feature1"> Alto Rendimiento </a>
+                        <li><a href="#feature1"> Diseño Grafico</a>
                         </li>
-                        <li><a href="#feature2"> Tiempo Real </a>
+                        <li><a href="#feature2"> Imagen Corporativa  </a>
                         </li>
-                        <li><a href="#feature3"> A medida </a>
+                        <li><a href="#feature3"> Servicios </a>
                         </li>
-                        <li><a href="#feature4"> Multiplataforma  </a>
+                        <!--   <li><a href="#feature4"> Multiplataforma  </a>
                         </li>
-                       <!-- <li><a href="#feature5"> 99.9% Uptime </a>
+                     <li><a href="#feature5"> 99.9% Uptime </a>
                         </li>-->
                     </ul>
 
                     <!-- 1st tab  -->
                     <div id="feature1">
-                        <div class="centralicon"><img src="images/shared-11.png" alt="" />
+                        <div class="centralicon"><img src="images/icon-design.jpg" alt="" />
                         </div>
                         <div class="tabfeatures">
                             <div class="row">
                                 <div class="col-sm-7">
-                                    <img src="images/shared-img-1.png" alt="" />
+                                    <img src="images/dw.jpg" alt="" />
                                 </div>
 
                                 <div class="col-sm-5">
@@ -103,7 +103,7 @@
 
                     <!-- 2nd tab  -->
                     <div id="feature2">
-                        <div class="centralicon"><img src="images/shared-2.png" alt="" />
+                        <div class="centralicon"><img src="images/icono_corporativo.jpg" alt="" />
                         </div>
                         <div class="tabfeatures">
                             <div class="row">
@@ -140,32 +140,132 @@
 
                     <!-- 3rd tab  -->
                     <div id="feature3">
-                        <div class="centralicon"><img src="images/shared-6.png" alt="" />
+                        <div class="centralicon"><img src="images/web-design3.png" alt="" />
                         </div>
                         <div class="tabfeatures">
                             <div class="row">
                                 <div class="col-sm-12">
-                                    <h5>En <strong>STWG Ltda.</strong> podemos desarrollar los sistemas según las necesidades de las empresas.</h5>
-                                    <p>Cansado de módulos, procesos y terminologías innecesarias para tu empresa, necesitas un sistema más amigable para tu empresa, que esperas desarrollemos juntos y crea un sistema  acorde a las necesidades de tu empresas.</p>
-
                                     <div class="row spacing-70">
-                                        <div class="col-sm-4">
-                                            <img src="images/shared-7.png" alt="" />
-                                            <h6>Modular</h6>
-                                            <p>En <strong>STWG Ltda.</strong>  estamos dispuesto a realizar los módulos y procesos que sean necesarios para la automatización de tu empresa. </br>En <strong>STWG Ltda.</strong>  sabemos que toda empresa tiene necesidades diferentes y una mala selección de software puede generar muchos problemas, no sufras más y desarrolla tu sistema según los requerimientos tu empresa.</p>
-                                        </div>
+                                           <h2>En STWG Ltda. desarrollamos para todo tipo de negocio</h2>
+                <span>Revisa nuestros servicios </span>
+            
 
-                                        <div class="col-sm-4">
-                                            <img src="images/shared-8.png" alt="" />
-                                            <h6>Permisos</h6>
-                                            <p>Los sistemas informáticos por lo general son usados por muchos trabajadores de las empresas, al desarrollar tu propio sistema puedes determinar los privilegios de accesos a la información para cada usuario según las necesidades de tu empresa.</p>
-                                        </div>
+        <div class="row spacing-70">
+            <div class="col-sm-4">
+                <div class="feature wow zoomIn" data-wow-delay="0.2s">
+                    <!--<i class="fa fa-sellsy"></i>-->
+                    <img src="images/serviciosweb/3.jpg" alt="" />
+                    <h4>Diseño Web a Medida</h4>
+                    <p>Diseño de sitios Web a medida, utilizando la última tecnología en desarrollo web basado en Jquery y HTML5. </p>
+                </div>
+            </div>
 
-                                        <div class="col-sm-4">
-                                            <img src="images/shared-9.png" alt="" />
-                                            <h6>Seguridad</h6>
-                                            <p>En <strong>STWG Ltda. </strong>sabemos que la información de las empresas es importante, debido a eso nuestros sistemas informáticos cuentan con protocolos de seguridad de primer nivel con el objetivo de mantener siempre resguardada la información de las empresas.   </p>
-                                        </div>
+            <div class="col-sm-4">
+                <div class="feature wow zoomIn" data-wow-delay="0.4s">
+                    <img src="images/serviciosweb/4.jpg" alt="" />
+                    <h4>Tienda Online (E-commerce)</h4>
+                    <p>Realizamos un E-commerce funcional, cómodo y fácil de usar. Para que tu negocio pueda vender en internet de forma segura y ampliar tu mercado.</p>
+                </div>
+            </div>
+
+            <div class="col-sm-4">
+                <div class="feature wow zoomIn" data-wow-delay="0.6s">
+                    <img src="images/serviciosweb/5.jpg" alt="" />
+                    <h4>Catálogo de Productos</h4>
+                    <p>Entregamos lo último en tecnología sobre “Catalogo de Productos” para tu negocio, volviéndose la solución ideal para tu empresa, debido al control del diseño y el contenido de su Pagina Web, potenciando principalmente las características y funcionalidades de sus productos.</p>
+                </div>
+            </div>
+
+           
+        </div>
+   
+
+        <div class="row spacing-70">
+
+        <div class="col-sm-4">
+                <div class="feature wow zoomIn" data-wow-delay="0.2s">
+                     <img src="images/serviciosweb/6.jpg" alt="" />
+                    <h4>Diseño Web Corporativo</h4>
+                    <p>Cansado de su imagen corporativa, Necesita renovar su imagen, potencie su imagen e identidad corporativa bajo diseños atractivos y vanguardistas,  disfrutando de la usabilidad acorde a la última tecnología.</p>
+                </div>
+            </div>
+
+            <div class="col-sm-4">
+                <div class="feature wow zoomIn" data-wow-delay="0.4s">
+                    <img src="images/serviciosweb/7.jpg" alt="" />
+                    <h4>Diseño Web Empresa</h4>
+                    <p>Desarrollamos un diseño Web de alta calidad con el objetivo de entregarle las mejores soluciones Web para las necesidades de su negocio.</p>
+                </div>
+            </div>
+
+            <div class="col-sm-4">
+                <div class="feature wow zoomIn" data-wow-delay="0.6s">
+                    <img src="images/serviciosweb/8.jpg" alt="" />
+                    <h4>Diseño Web Pymes</h4>
+                    <p>Obtén presencia en el mundo del internet y ábrete paso en el mercado, a través de un diseño Web moderno, claro y vanguardista, ideal para las Pymes o Emprendedores que comienzan con su negocio. </p>
+                </div>
+            </div>
+            
+
+        </div>
+
+
+      <div class="row spacing-70">
+
+        <div class="col-sm-4">
+                <div class="feature wow zoomIn" data-wow-delay="0.2s">
+                    <img src="images/serviciosweb/9.jpg" alt="" />
+                    <h4>Diseño Web Administrables</h4>
+                    <p>Sitos Web administrables ideal para el modelo de negocio de tu empresa y las necesidades que tiene tus clientes.</p>
+                </div>
+            </div>
+
+            <div class="col-sm-4">
+                <div class="feature wow zoomIn" data-wow-delay="0.4s">
+                    <img src="images/serviciosweb/10.jpg" alt="" />
+                    <h4>Diseño Web Intranet</h4>
+                    <p>Toda empresa necesita de la comunicación para mejorar sus procesos, lleva esa comunicación a otro nivel, permitiendo a los equipos de trabajo puedan compartir contenidos, colaborar y gestionar el conocimiento de la empresa.</p>
+                </div>
+            </div>
+
+            <div class="col-sm-4">
+                <div class="feature wow zoomIn" data-wow-delay="0.6s">
+                     <img src="images/serviciosweb/11.jpg" alt="" />
+                    <h4>Diseño Web Mini Sitios</h4>
+                    <p>Desarrollamos mini sitios que son una solución como mensajes organizacionales, ofertas exclusivas, concursos, promociones o simplemente campañas de marketing.</p>
+                </div>
+            </div>
+            
+
+        </div>
+
+
+
+
+    <div class="row spacing-70">
+
+        <div class="col-sm-4">
+                <div class="feature wow zoomIn" data-wow-delay="0.2s">
+                   
+                </div>
+            </div>
+
+            <div class="col-sm-4">
+                <div class="feature wow zoomIn" data-wow-delay="0.4s">
+                   <img src="images/serviciosweb/14.jpg" alt="" />
+                    <h4>Mantención Web</h4>
+                    <p>Realizamos servicio de mantención Web, incorporando mejoras, migración de contenido y modernización de tu sitio web.</p>
+                </div>
+            </div>
+
+            <div class="col-sm-4">
+                <div class="feature wow zoomIn" data-wow-delay="0.6s">
+                    
+                </div>
+            </div>
+            
+
+        </div>
 
                                     </div>
                                 </div>
@@ -173,7 +273,7 @@
                         </div>
                     </div>
 
-                    <!-- 4th tab  -->
+                    <!-- 4th tab  
                     <div id="feature4">
                         <div class="centralicon"><img src="images/shared-10.png" alt="" />
                         </div>
@@ -199,7 +299,7 @@
 
                                 
 
-                             <!--   <div class="col-sm-5">
+                               <div class="col-sm-5">
                                     <h5 >Toda tu información a gran velocidad y rendimiento </h5>
                                     
                                     <p style="text-align: justify;">Los sistemas informáticos desarrollados  por <STRONG>STWG Ltda.</STRONG> están diseñados para desplegar gran cantidad de información a velocidades y rendimientos  altísimos.  <STRONG>STWG Ltda.</STRONG>  utiliza la vanguardia en desarrollo informático  perfecto para la automatización de los procesos de tu empresa.</p>
@@ -207,12 +307,12 @@
                                     
                                    
                                      <button type="submit"class="btn btn-primary btn-large" onClick="document.location.href = 'index.php?page=contacto';" style="background: #4B76A3">¡Qué esperas únete a la vanguardia!</button> 
-                                </div> -->
+                                </div> 
                             </div>
                         
                             </div>
                         </div>
-                    </div>
+                    </div>-->
 
                     <!-- 5th tab  -->
                    <!-- <div id="feature5">

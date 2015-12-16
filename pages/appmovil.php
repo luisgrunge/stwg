@@ -69,12 +69,12 @@
 
                     <!-- 1st tab  -->
                     <div id="feature1">
-                        <div class="centralicon"><img src="images/shared-11.png" alt="" />
+                        <div class="centralicon"><img src="images/Ranking_icon.png" alt="" />
                         </div>
                         <div class="tabfeatures">
                             <div class="row">
                                 <div class="col-sm-7">
-                                    <img src="images/shared-img-1.png" alt="" />
+                                    <img src="images/Mobile-Economy.jpg" alt="" />
                                 </div>
 
                                 <div class="col-sm-5">
@@ -129,7 +129,7 @@
 
                     <!-- 3rd tab  -->
                     <div id="feature3">
-                        <div class="centralicon"><img src="images/shared-6.png" alt="" />
+                        <div class="centralicon"><img src="images/comuni.png" alt="" />
                         </div>
                         <div class="tabfeatures">
                             <div class="row">
@@ -177,7 +177,7 @@
                                   
                                   <div class="row">
                                     <div class="col-sm-9 center-block wow fadeInUp" data-wow-delay="1.2s" style="visibility: visible; animation-delay: 1.2s; animation-name: fadeInUp;">
-                                        <img src="images/Mobile-Economy.jpg" alt="" class="img-responsive center-block spacing-70">
+                                        <img src="images/appmolvil.jpg" alt="" class="img-responsive center-block spacing-70">
                                     </div>
                                 </div>
                                 </div>

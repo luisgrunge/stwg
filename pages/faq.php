@@ -21,8 +21,12 @@
 
     <section class="faq">
         <div class="row">
+         <div class="col-sm-8">
+         <img   src="images/about_bg.png" alt="" style=" margin-left: 20%;" /> 
+         </div>
             <div class="col-sm-12">
-                <h2>Frequently asked questions</h2>
+              
+                <h2>Preguntas y Repuestas </h2>
                 <p>Proper resources, dignity Oxfam policymakers criteria our grantees and partners affiliate Nelson Mandela Bill and Melinda Gates. Progress cooperation.</p>
             </div>
         </div>
